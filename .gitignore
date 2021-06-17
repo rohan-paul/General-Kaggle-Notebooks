@@ -1,5 +1,75 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
+###############START OF LARGE DATA IGNORE###################### 
+
+
+*.db
+/*.db
+*/*.db
+**/*.db
+/.db
+
+*.pkl
+/*.pkl
+*/*.pkl
+**/*.pkl
+/.pkl
+
+*.pyc
+/*.pyc
+*/*.pyc
+**/*.pyc
+/.pyc
+
+*.txt
+/*.txt
+*/*.txt
+**/*.txt
+/.txt
+
+*.png
+/*.png
+*/*.png
+**/*.png
+/.png
+
+
+*.csv
+/*.csv
+*/*.csv
+**/*.csv
+/.csv
+
+
+*glove_vectors
+/glove_vectors
+*/*glove_vectors
+**/*glove_vectors
+/glove_vectors
+
+
+
+*.zip
+/*.zip
+*/*.zip
+**/*.zip
+/.zip
+
+*.rar
+/*.rar
+*/*.rar
+**/*.rar
+/.rar
+
+*.7z
+/*.7z
+*/*.7z
+**/*.7z
+/.7z
+
+
+##############END OF LARGE DATA IGNORE#######################
+
 # dependencies
 /node_modules
 
